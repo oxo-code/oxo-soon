@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="oxocode-logo.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.807"
+     inkscape:cx="499.38042"
+     inkscape:cy="500"
+     inkscape:window-width="2560"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     fill="#FEFEFE"
+     d="M643.528 150.953C712.986 151.082 783.363 150.249 852.724 151.067C842.665 164.266 831.904 179.985 822.125 193.591L762.043 277.183L580.182 530.179C596.658 555.843 614.76 582.168 631.703 607.622L735.161 763.038C754.147 791.547 773.635 820.237 792.253 848.929C772.5 849.516 750.285 849.025 730.382 849.027L612.539 849.02C609.293 843.94 605.786 838.776 602.457 833.729L486.792 660.022C471.715 681.579 455.736 703.3 440.359 724.695L351.045 848.954C361.595 822.901 372.908 796.6 383.792 770.638L444.05 626.896L643.528 150.953Z"
+     id="path2" />
+  <path
+     fill="#F79245"
+     d="M146.81 151.05C167.406 150.732 188.652 150.988 209.289 150.987L326.375 150.991L480.38 382.533C462.681 400.679 444.072 418.86 426.112 436.823L372.458 490.494C355.489 465.694 338.685 439.792 322.009 414.733L222.824 265.669L171.44 188.402L155.889 165.135C153.151 161.039 149.027 155.225 146.81 151.05Z"
+     id="path3" />
+</svg>
