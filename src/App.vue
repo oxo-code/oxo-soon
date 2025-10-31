@@ -6,7 +6,7 @@ import logoUrl from './assets/oxocode-logo.svg'
   <main class="hero">
     <img :src="logoUrl" alt="OxoCode logo" class="logo" />
     <h1>Coming soon</h1>
-    <p>Wir bauen gerade etwas Großartiges. Bleib dran!</p>
+    <p>We are crafting something amazing. Stay tuned!</p>
     <a class="github" href="http://github.com/oxo-code" target="_blank" rel="noopener">
       GitHub
     </a>
